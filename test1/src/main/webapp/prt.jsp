@@ -14,9 +14,9 @@
 			<th>부서위치</th>
 		</tr>
 		<tr>
-			<td>10</td>
-			<td>IT</td>
-			<td>서울</td>
+			<td>20</td>
+			<td>개발</td>
+			<td>경기</td>
 		</tr>
 	</table>
 </body>
